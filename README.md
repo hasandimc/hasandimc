@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasandi Chandrakeerthi</h1>
-<h3 align="center">An IT undergraduate in SLIIT.Exploring new techologies</h3>
+<h3 align="center">IT undergraduate in SLIIT | Exploring new techologies</h3>
+<hr>
 
 - 🌱 I’m currently learning **React,Java,C++,Javascript,CSS and HTML while exploring new technologies**
 
-- 👯 I’m looking to collaborate on **web development projects that working with frontend technologies mainly working with React and Javascript**
+- 👯 I’m looking to collaborate on **web development projects that working on frontend technologies mainly with React**
 
 - 📫 How to reach me **hasandi.mc2003@gmail.com**
 ---
