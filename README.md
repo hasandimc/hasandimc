@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hasandi Chandrakeerthi
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and machine learning
 - 🌱 I’m currently learning React,Java,C++,Javascript,CSS and HTML while exploring new technologies
 - 💞️ I’m looking to collaborate on web development projects working with frontend technologies mainly with React and Javascript 
 - 📫 Reach me through hasandi.mc2003@gmail.com 
